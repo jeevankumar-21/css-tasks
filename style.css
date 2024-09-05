@@ -54,7 +54,7 @@ button{
     
 .container5{  justify-content: center;
         border: 2px solid black; 
-    flex-direction: column;}<br>
+    flex-direction: column;} 
     
 .pre{
     font-size: larger,20px;
@@ -73,4 +73,4 @@ footer{
 h3{text-decoration: underline;
     font-weight: bold;
 }
-.fdiv2{ 4
+ 
