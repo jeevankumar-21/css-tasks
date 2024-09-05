@@ -1,0 +1,76 @@
+ .container2{
+    background-image: url( https://media.istockphoto.com/id/1406974336/photo/train-passing-over-nine-arch-bridge.jpg?s=1024x1024&w=is&k=20&c=kBl6kGhBi663Nn3svMhMQ8ElkNrnKG66zEpxngimr7I=);
+    width: 100%;height: 500px;
+ }
+h4{
+    color: white;
+    flex: 10;
+    font-size:35px;
+}
+.container{
+    display: flex;
+    font-size: 25px;
+   
+}
+.div1{
+    flex: 1;
+    color: white;
+
+}
+.div2{
+    flex: 1; color: white;
+}
+.div3{
+    flex: 1; color: white;
+}
+h1{
+    font-style: italic;font-size:25px;font-weight: 100; color: white;
+}
+p{
+    font-size: 20px; font-style: italic; color: white;
+}
+button{
+    color:blue ;
+     border: 4px solid black;
+     margin: 20px 60px;
+      
+}
+.styling{justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;;
+    width: 70%;
+     
+    
+ }
+.container3{  justify-content: center;
+   border: 2px solid black;
+   flex-direction: column;}
+.div4{align-content: center;}
+ 
+    
+ 
+.container4{  justify-content: center;border: 2px solid black;}
+    
+.container5{  justify-content: center;
+        border: 2px solid black; 
+    flex-direction: column;}<br>
+    
+.pre{
+    font-size: larger,20px;
+}
+.head{color: black; 
+font-size: 50px;}
+footer{
+    justify-content:space-around;
+    display: flex;
+     width: 50%;
+    background-color: blueviolet;
+    font-size: large;
+    
+}
+.fdiv{align-items: center;}
+h3{text-decoration: underline;
+    font-weight: bold;
+}
+.fdiv2{ 4
